@@ -1,2 +1,5 @@
-Jogo de AventuraCriar uma tela (GUI) para os projetos
-- Criar uma tela (GUI) para os projetos
+# Simulador de Dados;
+# Chute um Numero;
+# Decida Por Mim;
+- Jogo de Aventura;
+- Criar uma tela (GUI) para os projetos;
